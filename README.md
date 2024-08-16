@@ -2,7 +2,7 @@
 
 1. CAR INSURANCE PREDICATION
 
- 1.# Imports and Setup:    
+ 1. # Imports and Setup :    
           
           The code imports various libraries needed for data manipulation, visualization, and machine learning. 
           It also sets up a consistent style for plots and suppresses warnings.
@@ -156,7 +156,7 @@
                                                                       The R² score is calculated for each model to evaluate performance.
 
 
-4 . # Prediction
+4.# PREDICATION
 
                             User Input for Prediction: 
                             
