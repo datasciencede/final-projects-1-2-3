@@ -65,7 +65,9 @@
 
 
 
-
+  2. Data Loading:
+ 
+                    Loads training and test datasets, filling missing values in key columns with "unknown." 
 
 
     
