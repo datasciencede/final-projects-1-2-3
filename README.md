@@ -26,6 +26,12 @@
                     1.plot_distribution function shows the distribution of the CLM_AMT (claim amount).
                     2.corrplt function generates a correlation heatmap of the dataset's numerical features.
 
+5. Model Building:
+
+                   1.Users can select features and a model type (Linear Regression, Decision Tree, or SVM) to train on the dataset.
+                   2.The model is trained, evaluated, and its performance metrics (e.g., Mean Squared Error, Accuracy) are displayed.
+                   3.For SVM, the problem is treated as a classification task (claim vs. no claim).
+
 
 
 
