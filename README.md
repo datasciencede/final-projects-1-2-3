@@ -20,7 +20,11 @@
                        3.Cleans and converts monetary columns to floats.
                        4.Fills missing values with appropriate statistics (mean or median).
 
+4. Visualization:
 
+                  The app provides options to visualize the dataset:
+                    1.plot_distribution function shows the distribution of the CLM_AMT (claim amount).
+                    2.corrplt function generates a correlation heatmap of the dataset's numerical features.
 
 
 
