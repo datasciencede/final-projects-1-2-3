@@ -9,9 +9,16 @@
 
 2. Data Loading and Caching:
 
-                            A function load_data loads the dataset from a specified file path and caches.
-                            It for faster access during the app's runtime.
+            A function load_data loads the dataset from a specified file path and caches.
+             It for faster access during the app's runtime.
 
+3. Data Preprocessing:
+
+                     The preprocess_data function handles cleaning and transforming the dataset:
+                       1.Drops irrelevant columns.
+                       2.Converts categorical variables to numerical values.
+                       3.Cleans and converts monetary columns to floats.
+                       4.Fills missing values with appropriate statistics (mean or median).
 
 
 
