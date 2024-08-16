@@ -67,15 +67,37 @@
 
   2. Data Loading:
  
-                    Loads training and test datasets, filling missing values in key columns with "unknown." 
+                    Loads training and test datasets, filling missing values in key columns with "unknown."
+
+     
 
 
-    
+  3. Feature Engineering:
+
+                          Combines title, author, and text into a single feature, content, for modeling. 
    
 
 
+  4. Menu Navigation:
+
+                     Users can navigate between "Home", "EDA", "Model Training", "Prediction", and "Test Your Own Article" options
+
+
+  5. Exploratory Data Analysis (EDA):
+
+                                     Visualizes the distribution of the target variable, missing values
+                                     article length, and generates word clouds for reliable and unreliable articles.
+
+
+  6. Model Training:
+
+                        Trains a logistic regression model using TF-IDF vectorized text.
+                        Evaluates performance with accuracy, precision, recall, F1 score, and confusion matrix.   
+
+7. Prediction:
+
+                Generates and displays predictions on test data, with an option to save the results.
 
 
 
-
-
+                         ------------------------------*******--------------------------
