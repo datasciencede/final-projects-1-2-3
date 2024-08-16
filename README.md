@@ -4,7 +4,8 @@
 
  1.Imports and Setup:    
           
-          The code imports various libraries needed for data manipulation, visualization, and machine learning. It also sets up a consistent style for plots and suppresses warnings.
+          The code imports various libraries needed for data manipulation, visualization, and machine learning. 
+          It also sets up a consistent style for plots and suppresses warnings.
 
 2. Data Loading and Caching:
 
