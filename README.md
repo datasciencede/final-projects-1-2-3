@@ -36,6 +36,39 @@
 
                Users can input values for selected features and the trained model will predict.
                The claim amount or classify whether a claim will be made.
+
+7. Interactivity:
+
+                The app's interface allows users to navigate between
+                1.showing data, visualizing distributions, building models, and making predictions using a sidebar.
+
+---------------------------------------------------------------------*******************-----------------------------------------------------------------------------------------------
+
+# FINAL- PROJECT- 2
+
+2.FAKE NEWS CLASSIFICATION
+
+  1. Imports and Setup
+
+                    Libraries:
+
+                               The code imports necessary libraries for
+                                1.data handling (pandas)
+                                2.visualization (matplotlib, seaborn),
+                                3.text processing (TfidfVectorizer),
+                                4.machine learning (LogisticRegression)
+                                5.performance evaluation (accuracy_score, confusion_matrix, etc.)
+      
+                    File Paths:
+
+                               The paths to the training, testing, and predictions datasets are defined.
+
+
+
+
+
+
+    
    
 
 
