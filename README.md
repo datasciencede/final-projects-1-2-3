@@ -32,6 +32,12 @@
                    2.The model is trained, evaluated, and its performance metrics (e.g., Mean Squared Error, Accuracy) are displayed.
                    3.For SVM, the problem is treated as a classification task (claim vs. no claim).
 
+6. Prediction:
+
+               Users can input values for selected features and the trained model will predict.
+               The claim amount or classify whether a claim will be made.
+   
+
 
 
 
