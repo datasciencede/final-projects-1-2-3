@@ -9,7 +9,8 @@
 
 2. Data Loading and Caching:
 
-                            A function load_data loads the dataset from a specified file path and caches it for faster access during the app's runtime.
+                            A function load_data loads the dataset from a specified file path and caches.
+                            It for faster access during the app's runtime.
 
 
 
