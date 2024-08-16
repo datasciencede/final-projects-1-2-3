@@ -42,7 +42,7 @@
                 The app's interface allows users to navigate between
                 1.showing data, visualizing distributions, building models, and making predictions using a sidebar.
 
----------------------------------------------------------------------*******************--------------------------------------------------
+---------------------------------------------------------------------*******************-----------------------------------------------------
 
 # FINAL- PROJECT- 2
 
